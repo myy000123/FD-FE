@@ -12,7 +12,7 @@ conda create -n DLF python==3.9.13
 ```
 - Activate the built DLF environment.
 ```
-conda activate DLF
+conda activate FDFE
 ```
 - Install Pytorch with CUDA
 ```
@@ -24,7 +24,7 @@ git clone https://github.com/myy000123/FD-FE.git
 ```
 - Install the necessary packages.
 ```
-cd DLF
+cd FDFE
 pip install -r requirements.txt
 ```
 
