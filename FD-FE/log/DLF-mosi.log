@@ -1,0 +1,23 @@
+2025-07-11 09:51:38,174 - MMSA [INFO] - train samples: (1284,)
+2025-07-11 09:51:38,371 - MMSA [INFO] - valid samples: (229,)
+2025-07-11 09:51:38,536 - MMSA [INFO] - test samples: (686,)
+2025-07-11 09:51:47,327 - MMSA [INFO] - train samples: (1284,)
+2025-07-11 09:51:47,457 - MMSA [INFO] - valid samples: (229,)
+2025-07-11 09:51:47,595 - MMSA [INFO] - test samples: (686,)
+2025-07-11 09:57:22,893 - MMSA [INFO] - train samples: (1284,)
+2025-07-11 09:57:22,995 - MMSA [INFO] - valid samples: (229,)
+2025-07-11 09:57:23,095 - MMSA [INFO] - test samples: (686,)
+2025-07-11 09:57:27,462 - MMSA [INFO] - TEST-(DLF) >>  acc_7: 0.1735  acc_5: 0.1735  acc_2: 0.5777  F1_score: 0.4231  Corr: -0.1531  MAE: 1.3841  Loss: 1.3838 
+2025-07-11 09:57:28,732 - MMSA [INFO] - Results saved to result\normal\mosi.csv.
+2025-07-11 10:01:11,058 - MMSA [INFO] - train samples: (1284,)
+2025-07-11 10:01:11,162 - MMSA [INFO] - valid samples: (229,)
+2025-07-11 10:01:11,264 - MMSA [INFO] - test samples: (686,)
+2025-07-11 10:04:58,886 - MMSA [INFO] - train samples: (1284,)
+2025-07-11 10:04:58,997 - MMSA [INFO] - valid samples: (229,)
+2025-07-11 10:04:59,096 - MMSA [INFO] - test samples: (686,)
+2025-07-11 10:05:03,076 - MMSA [INFO] - TEST-(DLF) >>  acc_7: 0.1735  acc_5: 0.1735  acc_2: 0.5777  F1_score: 0.4231  Corr: -0.1531  MAE: 1.3841  Loss: 1.3832 
+2025-07-11 10:58:40,058 - MMSA [INFO] - train samples: (1284,)
+2025-07-11 10:58:40,136 - MMSA [INFO] - valid samples: (229,)
+2025-07-11 10:58:40,213 - MMSA [INFO] - test samples: (686,)
+2025-07-11 10:58:43,824 - MMSA [INFO] - TEST-(DLF) >>  acc_7: 0.1735  acc_5: 0.1735  acc_2: 0.5777  F1_score: 0.4231  Corr: -0.1531  MAE: 1.3841  Loss: 1.3838 
+2025-07-11 10:58:45,093 - MMSA [INFO] - Results saved to result\normal\mosi.csv.
